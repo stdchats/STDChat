@@ -77,8 +77,9 @@
         </thead>
         <tbody>
             <tr><td>チャット</td><td>チャット</td></tr>
-            <tr><td>年間行事の確認</td><td>ユーザーの削除</td></tr>
-            <tr><td>なんか</td><td>年間行事の編集</td></tr>
+            <tr><td>年間行事の確認</td><td>ユーザーの管理</td></tr>
+            <tr><td>授業ファイルの確認</td><td>年間行事の編集</td></tr>
+	    <tr><td>スタンプ</td><td>授業ファイルのアップロード</td></tr>
         </tbody>
     </table>
     </div>
